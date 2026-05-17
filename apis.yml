@@ -16,7 +16,7 @@ tags:
   - Pipelines
   - Refined Products
   - Terminals
-x-type: company
+kind: company
 apis: []
 common:
   - type: Website
