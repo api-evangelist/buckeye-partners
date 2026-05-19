@@ -19,6 +19,8 @@ tags:
 kind: company
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/buckeye-partners
   - type: Website
     url: https://www.buckeye.com
   - type: Contact
