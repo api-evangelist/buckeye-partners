@@ -38,6 +38,14 @@ tags:
   - Petroleum
   - Pipelines
   - Refined Products
+  - Terminal
+tags_raw:
+  - Energy
+  - Fuel Storage
+  - Infrastructure
+  - Petroleum
+  - Pipelines
+  - Refined Products
   - Terminals
 kind: company
 apis: []
