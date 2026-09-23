@@ -1,7 +1,9 @@
 ---
 title: $6.5 billion deal that will take Buckeye Partners private is ...
 url: https://www.mcall.com/2019/10/23/65-billion-deal-that-will-take-buckeye-partners-private-is-set-to-close-nov-1/
-date: '2026-05-25'
+published: '2019-10-23'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Buckeye Partners" press release artificial intelligence'
 position: 1
 source: serpapi-google

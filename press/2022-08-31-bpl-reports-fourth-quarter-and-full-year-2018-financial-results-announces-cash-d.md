@@ -2,7 +2,9 @@
 title: BPL Reports Fourth Quarter and Full Year 2018 Financial Results; Announces
   Cash Distribution
 url: https://www.buckeye.com/press-releases/bpl-reports-fourth-quarter-and-full-year-2018-financial-results-announces-cash-distribution
-date: '2022-08-31'
+published: ''
+date_basis: harvested
+harvested: '2022-08-31'
 author: ntbase
 feed_url: http://www.buckeye.com/news/feed
 ---

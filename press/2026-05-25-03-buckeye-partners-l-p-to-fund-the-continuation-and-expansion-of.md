@@ -1,7 +1,9 @@
 ---
 title: Buckeye Partners, L.P. to fund the continuation and expansion of ...
 url: https://www.facebook.com/LamarUniversity/posts/buckeye-partners-lp-to-fund-the-continuation-and-expansion-of-an-lu-led-research/547867594207506/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Buckeye Partners" press release artificial intelligence'
 position: 3
 source: serpapi-google

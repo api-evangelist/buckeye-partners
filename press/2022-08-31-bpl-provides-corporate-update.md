@@ -1,7 +1,9 @@
 ---
 title: BPL Provides Corporate Update
 url: https://www.buckeye.com/press-releases/bpl-provides-corporate-update
-date: '2022-08-31'
+published: ''
+date_basis: harvested
+harvested: '2022-08-31'
 author: ntbase
 feed_url: http://www.buckeye.com/news/feed
 ---

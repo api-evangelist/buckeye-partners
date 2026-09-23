@@ -1,7 +1,9 @@
 ---
 title: BPL Announces 2018 Schedule K-1 Tax Packages Are Now Available
 url: https://www.buckeye.com/press-releases/bpl-announces-2018-schedule-k-1-tax-packages-are-now-available
-date: '2022-08-31'
+published: ''
+date_basis: harvested
+harvested: '2022-08-31'
 author: ntbase
 feed_url: http://www.buckeye.com/news/feed
 ---

@@ -1,7 +1,9 @@
 ---
 title: BPL Announces Contribution of Interest in Freeport LNG Train 2
 url: https://www.buckeye.com/press-releases/bpl-announces-contribution-of-interest-in-freeport-train
-date: '2022-08-31'
+published: ''
+date_basis: harvested
+harvested: '2022-08-31'
 author: ntbase
 feed_url: http://www.buckeye.com/news/feed
 ---

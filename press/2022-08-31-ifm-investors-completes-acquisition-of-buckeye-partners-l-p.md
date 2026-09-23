@@ -1,7 +1,9 @@
 ---
 title: IFM Investors Completes Acquisition of Buckeye Partners, L.P.
 url: https://www.buckeye.com/press-releases/ifm-investors-completes-acquisition-of-buckeye-partners-l-p
-date: '2022-08-31'
+published: ''
+date_basis: harvested
+harvested: '2022-08-31'
 author: ntbase
 feed_url: http://www.buckeye.com/news/feed
 ---

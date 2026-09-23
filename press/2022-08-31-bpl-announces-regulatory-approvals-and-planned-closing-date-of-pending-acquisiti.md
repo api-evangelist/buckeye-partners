@@ -1,7 +1,9 @@
 ---
 title: BPL Announces Regulatory Approvals and Planned Closing Date of Pending Acquisition
 url: https://www.buckeye.com/press-releases/bpl-announces-regulatory-approvals-and-planned-closing-date-of-pending-acquisition
-date: '2022-08-31'
+published: ''
+date_basis: harvested
+harvested: '2022-08-31'
 author: ntbase
 feed_url: http://www.buckeye.com/news/feed
 ---

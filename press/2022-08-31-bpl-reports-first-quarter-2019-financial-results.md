@@ -1,7 +1,9 @@
 ---
 title: BPL Reports First Quarter 2019 Financial Results
 url: https://www.buckeye.com/press-releases/bpl-reports-first-quarter-2019-financial-results
-date: '2022-08-31'
+published: ''
+date_basis: harvested
+harvested: '2022-08-31'
 author: ntbase
 feed_url: http://www.buckeye.com/news/feed
 ---

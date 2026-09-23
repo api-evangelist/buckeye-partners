@@ -1,7 +1,9 @@
 ---
 title: BPL Announces Closing of Sale of Its Equity Interest in VTTI B.V.
 url: https://www.buckeye.com/press-releases/bpl-announces-closing-of-sale-of-its-equity-interest-in-vtti-b-v
-date: '2022-08-31'
+published: ''
+date_basis: harvested
+harvested: '2022-08-31'
 author: ntbase
 feed_url: http://www.buckeye.com/news/feed
 ---

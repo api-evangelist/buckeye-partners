@@ -1,7 +1,9 @@
 ---
 title: Buckeye Partners dodges shareholder's lawsuit over ...
 url: https://www.reuters.com/legal/transactional/buckeye-partners-dodges-shareholders-lawsuit-over-acquisition-payouts-2022-02-10/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Buckeye Partners" press release artificial intelligence'
 position: 4
 source: serpapi-google

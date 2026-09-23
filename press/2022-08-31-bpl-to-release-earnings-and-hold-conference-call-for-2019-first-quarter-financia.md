@@ -2,7 +2,9 @@
 title: BPL To Release Earnings and Hold Conference Call for 2019 First Quarter Financial
   Results
 url: https://www.buckeye.com/press-releases/bpl-to-release-earnings-and-hold-conference-call-for-2019-first-quarter-financial-results
-date: '2022-08-31'
+published: ''
+date_basis: harvested
+harvested: '2022-08-31'
 author: ntbase
 feed_url: http://www.buckeye.com/news/feed
 ---
